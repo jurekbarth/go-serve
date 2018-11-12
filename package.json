@@ -1,9 +1,12 @@
 {
   "name": "go-serve",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
-  "keywords": ["server", "golang"],
+  "keywords": [
+    "server",
+    "golang"
+  ],
   "author": "jurekbarth",
   "license": "MIT"
 }
